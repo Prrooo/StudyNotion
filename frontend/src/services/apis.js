@@ -1,4 +1,3 @@
-// const BASE_URL = "https://studywithmentor.onrender.com/api/v1"
 
 const BASE_URL="https://studynotion-lkzr.onrender.com/api/v1";
 
